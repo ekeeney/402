@@ -19,7 +19,8 @@ After you have made the dashboard, follow these steps to put the dashboard into 
 
 6. Copy the "Embedded Code" [you must copy all of this]
 
-7. Input the embedded code into the tableauReport code found on this page (line __) 
+7. Input the embedded code into the tableauReport code found on lines 14 and 15 [you can delete what I have - that's a placeholder]
+    ** It may come up as a long string, pretty much use common sense to make it look nicer
     ** Change this to fit your own website
 
 8. Copy this entire page to new a .php within your project 
