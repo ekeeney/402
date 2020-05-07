@@ -1,0 +1,22 @@
+<?php
+include_once('./include/header.php');
+?>
+	<!-- DO NOT EDIT ABOVE THIS LINE -->
+
+<html>
+    <head>
+        <title>Tableau Dashboard</title>
+    </head>
+    <body>
+	<h3> ¯\_(ツ)_/¯ This is the title for the page, you should probably edit this ¯\_(ツ)_/¯ </h3>
+        <h5> ¯\_(ツ)_/¯ This is where you can put more information about the dashboard if you choose - you should also edit this ¯\_(ツ)_/¯ </h5>
+       
+                <div class='tableauPlaceholder'         
+                </script>
+               
+    </body>
+</html>
+	
+
+	<!-- DO NOT EDIT BELOW THIS LINE -->
+<?php include_once('./include/footer.php'); ?>
