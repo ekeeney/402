@@ -1,6 +1,6 @@
 Hi Everyone - hopefully this will be a resource for you to be able to put your Tableau into the website portion of the final project: 
 
-First, I'm making the assumtion that you have made a Tableau DASHBOARD - not just sheets
+First, I'm making the assumption that you have made a Tableau DASHBOARD - not just sheets
   - A dashboard is an interactive interface that combines your different Tableau outputs
   
 After you have made the dashboard, follow these steps to put the dashboard into your website
@@ -15,7 +15,7 @@ After you have made the dashboard, follow these steps to put the dashboard into 
 
 4. View your Tableau Dashboard on Tableau Public in your browser 
 
-5. Find the share button at the bottom of the graphic [it has 3 shperes connected with 2 lines] 
+5. Find the share button at the bottom of the graphic [it has 3 spheres connected with 2 lines] 
 
 6. Copy the "Embedded Code" [you must copy all of this]
 
